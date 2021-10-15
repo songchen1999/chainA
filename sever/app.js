@@ -3,7 +3,7 @@ const axios = require('axios').default
 require('dotenv').config()
 
 const app = express()
-const port = 5000
+const port = process.env.PORT || 80
 
 let kraR = "https://api.kraken.com/0/public/Ticker?pair=XBTUSD,ETHUSD"
 let bittrex = "https://api.bittrex.com/api/v1.1/public/getticker?market=USD-BTC"

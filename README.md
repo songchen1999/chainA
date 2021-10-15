@@ -1,14 +1,15 @@
 # chainAnalysis
 
-to run the project,
+To run the project
 
-clone the repo, 
-cd server, npm i, node app.js
+Clone the repo
+cd server, npm i, node app.js 
 
-and cd ../client, do npm install, and npm start
+cd ../client, do npm install, and npm start
 
-build with React and Node.js
+Build with React and Node.js
 
 see live demo: https://xenodochial-babbage-566478.netlify.app/
+repo link: https://github.com/songchen1999/chainA
 
  
